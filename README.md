@@ -33,6 +33,7 @@ Each project includes source code, documentation, datasets (where applicable), a
 ## 🏆 Certifications & Experience
 - **AWS Certified AI Practitioner – Amazon Web Services**
 - **Future AWS AI Scientist Nanodegree Program – Udacity**
+- **Introduction to Generative AI with AWS**
 - **Loubby AI Low code/No code AI automation Boot camp**
 - **NeuralSeek AI Agent Developer Internship**
 - **DATACOM Automation AI Accelerator: From Co-pilot to Autonomous Agent**
