@@ -1,9 +1,6 @@
 # Kennedy-Amaihe
-Bio
-
-
-# Kennedy Amaihe  
 *Agentic AI | AI Automation | AI Ethics & Governance Enthusiast*
+
 
 Welcome to my GitHub portfolio! I am an aspiring **AI Engineer and Research-Oriented Technologist** with a strong focus on **Agentic AI Systems, Intelligent Automation, and Responsible AI (Ethics & Governance)**. I am passionate about building AI solutions that are not only powerful and scalable, but also **safe, transparent, and aligned with human values**.
 
@@ -34,12 +31,12 @@ Each project includes source code, documentation, datasets (where applicable), a
 ---
 
 ## 🏆 Certifications & Experience
--**AWS Certified AI Practitioner – Amazon Web Services
--**Future AWS AI Scientist Nanodegree Program – Udacity
--**Loubby AI Low code/No code AI automation Boot camp.
--**NeuralSeek AI Agent Foundation Internship
--**DATACOM Automation AI Accelerator: From Co-pilot to Autonomous Agent**
--**TATA GenAI Powered Data Analytics and strategy development**
+- **AWS Certified AI Practitioner – Amazon Web Services**
+- **Future AWS AI Scientist Nanodegree Program – Udacity**
+- **Loubby AI Low code/No code AI automation Boot camp**
+- **NeuralSeek AI Agent Foundation Internship**
+- **DATACOM Automation AI Accelerator: From Co-pilot to Autonomous Agent**
+- **TATA GenAI Powered Data Analytics and strategy development**
 - **BCG GenAI Consulting Simulation – AI-Powered Financial Chabot Project**
 - **Google IT Support Specialist**
 
