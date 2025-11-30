@@ -21,10 +21,9 @@ This repository serves as my **professional AI portfolio**, showcasing hands-on 
 ---
 
 ## 📂 Portfolio Categories
-- **GenAI Powered Automation Projects**
+- **Machine Learning/Data Science/GenAI Projects**
+- **No-Code & Low Code Workflow Automation**
 - **Responsible AI & Governance Case Studies**
-- **Machine Learning Projects**
-- **No-Code & Workflow Automation**
 
 Each project includes source code, documentation, datasets (where applicable), and clear problem–solution explanations.
 
