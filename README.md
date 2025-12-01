@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Replace this path with your uploaded banner image -->
+  <!-- images/banner.png -->
   <img src="./images/banner.png" alt="Kennedy Amaihe GitHub Banner" width="100%" />
 </p>
 
