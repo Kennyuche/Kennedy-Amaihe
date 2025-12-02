@@ -1,4 +1,4 @@
-# 👨‍💻 Kennedy AMaihe | AI • Data Analytics • Automation Engineer
+# 👨‍💻 Kennedy Amaihe | *AI • Data Analytics • Automation Engineer*
 
 Welcome to my GitHub portfolio!  
 I build **AI-powered systems, data-driven solutions, and scalable no-code/low-code automations** for real-world business and technical problems.
