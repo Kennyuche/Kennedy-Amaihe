@@ -82,19 +82,8 @@ Developed during BCG simulation; handles user queries, data lookup, and reasonin
 **Skills:** Chatbots, prompt engineering, retrieval augmentation  
 
 ### 🔹 **Low-Code AI Automation Pipelines**  
-No-code agent workflows for business process automation using Loubby AI + custom logic.  
+No-code agent workflows for business process automation using n8n + custom logic.  
 **Skills:** Automation design, orchestration, low-code AI  
-
----
-### 🛠 Skills & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00FF00?style=for-the-badge)
 
 
 ---
